@@ -7,3 +7,6 @@ To Get the project to run on your machine, find your engine.ini file in saved/co
 
 [Audio]
 UseAudioMixer=true
+
+
+You can also just download the EXE from the EXE folder which will run the game with no editor needed
