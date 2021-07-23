@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OculusAudio",
+			"Name": "SteamAudio",
 			"Enabled": true
 		}
 	],
